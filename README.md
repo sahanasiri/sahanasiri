@@ -1,9 +1,4 @@
 Hi, I'm Sahana
 
--Data Operations Professional
--Experienced in structured validation & workflow governance
--Focused on automation and process efficiency
--Transitioning into Product Analytics
-
-Interests:
-Data lifecycle management • Analytics • Workflow design • Process optimization • Systems thinking
+I work at the intersection of data operations and workflow optimization. My experience involves managing large-scale data lifecycles, validating structured processes, improving efficiency through automation, and ensuring accuracy in high-risk environments.
+I am currently transitioning toward Product Analytics, where I aim to combine systems thinking, data validation, and structured problem-solving to improve user and business outcomes.
